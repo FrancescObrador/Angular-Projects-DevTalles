@@ -1,0 +1,8 @@
+<input 
+    type="text" 
+    [value]="initialValue"
+    [placeholder]="placeholder"
+    class="form-control animate__animated animate__fadeIn"
+    (keyup)="onKeyPress(txtInput.value)"
+    #txtInput
+>
