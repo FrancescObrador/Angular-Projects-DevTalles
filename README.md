@@ -12,3 +12,4 @@ Projects made during DevTalles courses.
 7. Selectors
 8. Lifecyle
 9. [MapsApp](https://664769b65b0c79ddb0326b21--moonlit-capybara-426228.netlify.app/)
+10. [AuthApp](https://664b2a8fa4f26b9250bcf93b--aquamarine-pastelito-01bf0c.netlify.app/)
